@@ -17,7 +17,7 @@
 #
 # TODO: 
 #    use include "filename" (quotes) in latest OGS version? 
-#    make sure soil sequence in slice matches sequence in table (id_list?)
+#    arrange media numbering by layer_id (stratigraphic name) from parameter table 
 
 import ogs6py as ogs
 import pandas as pd
